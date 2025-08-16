@@ -8,7 +8,7 @@ named as you'll see something like this eg: 26.157.52.193
 then your friends use that as a address on minecraft and now PLAY!
 
 DM me on discord for help: Kiyoshi_brits
-
+And here is the direct download link: https://www.mediafire.com/folder/wzoen1ggk9p93/MCS
 
 To change any settings, edit server.properties.
 
