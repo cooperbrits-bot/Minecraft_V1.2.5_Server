@@ -17,44 +17,43 @@ To start the server, run "start server.bat" on windows.
 Add any user names you want to have op to ops.txt
 
 Ingame, ops can use the following commands:
-kick <player>             removes a player from the server
+kick <player>             (removes a player from the server)
    
-ban <player>              bans a player from the server
+ban <player>              (bans a player from the server)
 
-pardon <player>           pardons a banned player so that they can connect again
+pardon <player>           (pardons a banned player so that they can connect again)
 
-ban-ip <ip>               bans an IP address from the server
+ban-ip <ip>               (bans an IP address from the server)
 
-pardon-ip <ip>            pardons a banned IP address so that they can connect again
+pardon-ip <ip>            (pardons a banned IP address so that they can connect again)
 
-op <player>               turns a player into an op
+op <player>               (turns a player into an op)
 
-deop <player>             removes op status from a player
+deop <player>             (removes op status from a player)
 
-tp <player1> <player2>    moves one player to the same location as another player
+tp <player1> <player2>    (moves one player to the same location as another player)
 
-give <player> <id> [num]  gives a player a resource
+give <player> <id> [num]  (gives a player a resource)
 
-tell <player> <message>   sends a private message to a player
+tell <player> <message>   (sends a private message to a player)
 
-stop                      gracefully stops the server
+stop                      (gracefully stops the server)
 
-save-all                  forces a server-wide level save
+save-all                  (forces a server-wide level save)
 
-save-off                  disables terrain saving (useful for backup scripts)
+save-off                  (disables terrain saving (useful for backup scripts))
 
-list                      lists all currently connected players
+list                      (lists all currently connected players)   
 
-say <message>             broadcasts a message to all players
+say <message>             (broadcasts a message to all players)
 
-time <add|set> <amount>   adds to or sets the world time (0-24000)
+time <add|set> <amount>   (adds to or sets the world time (0-24000))
 
-gamemode <player> <mode>  sets player's game mode 0 or 1 (0=survival 1=creative)
+gamemode <player> <mode>  (sets player's game mode 0 or 1 (0=survival 1=creative))
 
-toggledownfall            toggles rain on or off
+toggledownfall            (toggles rain on or off)
 
-xp <player> <amount>      gives the player the amount of xp (0-5000)
-
+xp <player> <amount>      (gives the player the amount of xp (0-5000))
 
 
 ## Changelog:
