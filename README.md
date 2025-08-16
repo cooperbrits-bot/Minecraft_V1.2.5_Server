@@ -1,4 +1,4 @@
-# Minecraft_V1.2.5_Server
+
 ## Minecraft V1.2.5 private server ##
 EDIT:Hey so to actually have other people join use Radmin VPN 
 i've put it there for you then once its setup click: "network"  
